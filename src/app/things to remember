@@ -1,0 +1,4 @@
+pnpm dev
+pnpm add lucide-react -> to add the icons
+
+import { icon names } from 'icon-library'
